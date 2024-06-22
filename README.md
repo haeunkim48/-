@@ -1,6 +1,7 @@
 # 안녕하세요, 데이터 분석가 김하은입니다 👋 #
 
 저는 세밀하고 결과 지향적인 신입 데이터 분석가로 데이터 처리 및 시각화에 전문성을 갖추고 있습니다. Python, SQL, Tableau 등의 툴을 활용한 데이터 분석과 예측 모델 구축에 능숙하며, 신속한 학습 능력과 탁월한 협업 능력을 바탕으로 심도 있는 분석과 원인 분석에 강점이 있습니다. 영향력 있는 프로젝트에 기여하고 열정적인 사람들과의 협력을 통해 성장하고자 합니다.
+
 <br/>
 
 ## 스킬 ## 
@@ -26,6 +27,7 @@
 
 • 예측 모델을 통해 향후 관광 불황 시기를 정확히 예측하여 관련 산업에 유용한 인사이트 제공하는 것을 목표로 함. 예상된 결과를 바탕으로 전략적인 결정을 지원하는 데 기여함.
 
+<br/>
 
 📌 배송 물량 분석 및 예측 서비스 [https://github.com/haeunkim48/Delivery-Volume-Forecasting-Service](https://github.com/haeunkim48/Delivery-Volume-Forecasting-Service).
 
@@ -41,7 +43,7 @@
 
 • 가상 시나리오 기반 분석 결과, 물류비용 절감과 인력운영의 효율성 향상을 예상함.
 
-
+<br/>
 
 📌 당뇨병 예측 서비스 [https://github.com/haeunkim48/Machine_learning_project](https://github.com/haeunkim48/Machine_learning_project/blob/main/Diabetes_Prediciton.ipynb).
   
@@ -53,6 +55,7 @@
 
 • 예측 정확도를 높여 의료진이 환자의 상태를 사전에 예측하고 관리하는 데 도움 제공하는 것을 목표로 함.
 
+<br/>
 
 ## 추가학습 ##
 
@@ -66,6 +69,7 @@
 
 📝 Google Data Analytics Professional Certificate - 진행중 
 
+<br/>
 
 ## 나에 대해서... ##
 * 🔥 재미있는 사실실:
@@ -73,6 +77,7 @@
   * 여행을 좋아하며 다음 목적지는 유럽 여행입니다.
   * 학습과 지도를 좋아합니다.
     
+<br/>
 
 ## 연락처 ## 
 * 💼 LinkedIn: https://www.linkedin.com/in/grace-kim0506/
