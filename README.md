@@ -61,7 +61,7 @@
 
 📝 Python 독학 https://github.com/haeunkim48/Basics-.
 
-📝 데이터 과학 블로그 https://haeunkim48.tistory.com/.
+📝 데이터 블로그 https://haeunkim48.tistory.com/.
 
 📝 머신러닝을 위한 수학: 선형대수 (Coursera) - 2024년 5월 2일 (발급일)
 
